@@ -1,4 +1,6 @@
-"AadClientId": "1e429928-7ff6-432e-a2a4-c46f48a54cfe", 
-"AadSecret": "vGN7Q~gDT6KkfCn9io3d~UBwrGrHgbHxGPYQO", 
-"AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef", 
-"Name": Contoso Chat Bot
+
+"AadClientId": "a861a2b3-0a33-4904-8987-a67f5b19a850",
+"AadSecret": "p-k8Q~p9OiFq37WE3YGT-DhZV~Pn6JoixpM~9bJx",
+"AadTenantId": "92b348b9-b015-47de-94ce-8708f4efe13d",
+"AadTenantDomain": "IDSECHackathon2023.onmicrosoft.com",
+"Name": "DevOps Automation",
