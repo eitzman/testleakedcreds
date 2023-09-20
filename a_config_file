@@ -12,3 +12,10 @@
 "AadTenantId": "92b348b9-b015-47de-94ce-8708f4efe13d",
 "AadTenantDomain": "IDSECHackathon2023.onmicrosoft.com",
 "Name": "DevOps Automation",
+
+
+"AadClientId": "c68f5b83-0e00-48ac-b232-481edc0b3810",
+"AadSecret": "Jonu594373",
+"AadTenantId": "216f4858-9d6b-47ef-b47e-4324f3509920",
+"AadTenantDomain": "testreseller.ccsctp.net",
+"Name": "DevOps Automation",
